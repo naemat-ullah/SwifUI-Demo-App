@@ -16,7 +16,7 @@ class ListExampleViewModel {
         }
     }
 
-    var values: [Int] = [Int](1...100_000)
+    var values: [Int] = [Int](1...1_000_000)
 }
 
 struct ListExampleView: View {

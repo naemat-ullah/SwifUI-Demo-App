@@ -13,7 +13,8 @@ struct SwiftUI_Demo_App: App {
 //           StateExampleView()
 //            ObservableObjectExampleView()
 //            ObservableExampleView(ObservableExampleViewModel())
-            ListExampleView(ListExampleViewModel())
+//            ListExampleView(ListExampleViewModel())
+            NoEffectModifierExample()
         }
     }
 }
