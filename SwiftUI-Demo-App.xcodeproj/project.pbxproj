@@ -13,6 +13,8 @@
 		773F7D632CED18630022CD2B /* ObservableExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 773F7D622CED18630022CD2B /* ObservableExampleView.swift */; };
 		773F7D652CED19E90022CD2B /* ListExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 773F7D642CED19E90022CD2B /* ListExampleView.swift */; };
 		773F7D672CED26B50022CD2B /* NoEffectModifierExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 773F7D662CED26B50022CD2B /* NoEffectModifierExample.swift */; };
+		773F7D692CED2D680022CD2B /* PODExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 773F7D682CED2D680022CD2B /* PODExample.swift */; };
+		773F7D6B2CED34810022CD2B /* ListProblemFixExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 773F7D6A2CED34810022CD2B /* ListProblemFixExample.swift */; };
 		7788F6EF2CEA151B00CBBA74 /* SwiftUI_Demo_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7788F6EE2CEA151B00CBBA74 /* SwiftUI_Demo_App.swift */; };
 		7788F6F32CEA151C00CBBA74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7788F6F22CEA151C00CBBA74 /* Assets.xcassets */; };
 		7788F6F62CEA151C00CBBA74 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7788F6F52CEA151C00CBBA74 /* Preview Assets.xcassets */; };
@@ -25,6 +27,8 @@
 		773F7D622CED18630022CD2B /* ObservableExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableExampleView.swift; sourceTree = "<group>"; };
 		773F7D642CED19E90022CD2B /* ListExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListExampleView.swift; sourceTree = "<group>"; };
 		773F7D662CED26B50022CD2B /* NoEffectModifierExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoEffectModifierExample.swift; sourceTree = "<group>"; };
+		773F7D682CED2D680022CD2B /* PODExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PODExample.swift; sourceTree = "<group>"; };
+		773F7D6A2CED34810022CD2B /* ListProblemFixExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListProblemFixExample.swift; sourceTree = "<group>"; };
 		7788F6EB2CEA151B00CBBA74 /* SwiftUI-Demo-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Demo-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7788F6EE2CEA151B00CBBA74 /* SwiftUI_Demo_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Demo_App.swift; sourceTree = "<group>"; };
 		7788F6F22CEA151C00CBBA74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -50,6 +54,8 @@
 				773F7D622CED18630022CD2B /* ObservableExampleView.swift */,
 				773F7D642CED19E90022CD2B /* ListExampleView.swift */,
 				773F7D662CED26B50022CD2B /* NoEffectModifierExample.swift */,
+				773F7D682CED2D680022CD2B /* PODExample.swift */,
+				773F7D6A2CED34810022CD2B /* ListProblemFixExample.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -166,9 +172,11 @@
 			files = (
 				773F7D5D2CECF0FF0022CD2B /* Extensions.swift in Sources */,
 				773F7D632CED18630022CD2B /* ObservableExampleView.swift in Sources */,
+				773F7D692CED2D680022CD2B /* PODExample.swift in Sources */,
 				773F7D612CED16500022CD2B /* ObservableObjectExampleView.swift in Sources */,
 				7788F6EF2CEA151B00CBBA74 /* SwiftUI_Demo_App.swift in Sources */,
 				773F7D672CED26B50022CD2B /* NoEffectModifierExample.swift in Sources */,
+				773F7D6B2CED34810022CD2B /* ListProblemFixExample.swift in Sources */,
 				773F7D5F2CED12D40022CD2B /* StateExampleView.swift in Sources */,
 				773F7D652CED19E90022CD2B /* ListExampleView.swift in Sources */,
 			);
